@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;600;700&family=Inter:wght@400;500;600&family=Raleway:wght@100&display=swap');
+
+header {
+    width: 100vw;
+    height: min 30px;
+}
+
+.headerbox {
+    display: flex;
+    column-gap: 30px;
+    justify-content: flex-end;
+    margin-right: 60px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+
+}
