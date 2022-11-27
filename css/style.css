@@ -162,10 +162,10 @@ header .headerbox ul li {
 }
 
 .conteiner1 {
-  margin-left: 148px;
   width: 1152px;
 }
 .conteiner1 .conteiner1box {
+  margin-left: 148px;
   display: flex;
 }
 .conteiner1 .conteiner1box h1 {
@@ -198,6 +198,10 @@ header .headerbox ul li {
   -webkit-text-decoration: underline #00A8CC;
           text-decoration: underline #00A8CC;
 }
+.conteiner1 .conteiner1box .avatar {
+  width: 100vw;
+}
+
 .container2 {
   width: 1152px;
   height: 396px;

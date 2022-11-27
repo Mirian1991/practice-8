@@ -47,10 +47,11 @@ header {
 }
 
 .conteiner1 {
-    margin-left: 148px;
+
     width: 1152px;
 
     .conteiner1box {
+        margin-left: 148px;
         display: flex;
 
         h1 {
@@ -89,7 +90,9 @@ header {
 
         }
 
-        .avatar {}
+        .avatar {
+            width: 100vw;
+        }
     }
 }
 
